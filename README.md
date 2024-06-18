@@ -11,7 +11,7 @@ After putting in countless hours of design and development using Android Studio,
 - **Error Handling**: Robust handling of common errors like division by zero.
 
 ### How to Get It:
-You can check out the project on my GitHub repository [here](https://github.com/yourusername/dons-calculator). Feel free to download, use, and even contribute to its development!
+You can check out the project on my GitHub repository. Feel free to download, use, and even contribute to its development!
 
 ### Installation Instructions:
 1. Clone the repository: `git clone https://github.com/DewmikaSenarathna/DonsCalculator.git
