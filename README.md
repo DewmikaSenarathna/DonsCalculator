@@ -9,6 +9,7 @@ Basic Arithmetic Operations: Addition, subtraction, multiplication, and division
 User-Friendly Interface: Clean and easy-to-navigate design.
 Responsive Design: Optimized for phones.
 Error Handling: Robust handling of common errors like division by zero.
+
 How to Get It:
 You can check out the project on my GitHub repository here. Feel free to download, use, and even contribute to its development!
 
